@@ -1,6 +1,6 @@
 #!/bin/sh
 
-OPENSSL=openssl-1.1.1c
+OPENSSL=openssl-1.1.1d
 HOST_PLATFORM=darwin-x86_64
 
 ANDROID_NDK_HOME=~/android-ndk-r19c; export ANDROID_NDK_HOME
